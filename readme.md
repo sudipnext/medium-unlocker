@@ -6,9 +6,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-  - [Swagger Documentation](#swagger-documentation)
-- [Endpoints](#endpoints)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,6 +14,11 @@
 Welcome to the documentation for the **Medium-Unlocker** REST API. This API provides the ability to unlock and retrieve content from URLs, leveraging Google Web Cache. It allows you to access web content without direct access to the original website.
 
 ## Getting Started
+``` 
+https://medium-unlocker.onrender.com/unlock/?url={your url of medium article here}
+```
+
+## Running Locally on your Machine
 
 ### Prerequisites
 
@@ -59,11 +61,6 @@ To set up and run the API locally, follow these steps:
     ```
     and put ?url=```Your Favourite Premium Medium Article Link```
 
-or 
-Visit
-``` 
-http://127.0.0.1:8000/swagger
-```
 
 7. Enjoy
 
