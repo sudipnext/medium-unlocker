@@ -3,6 +3,8 @@ from django.http import HttpResponse
 from bs4 import BeautifulSoup
 import re
 import requests
+from drf_yasg.utils import swagger_auto_schema
+from drf_yasg import openapi
 
 def unescape_html(text):
     html_entities = [
@@ -17,6 +19,11 @@ def unescape_html(text):
     return text
 
 class UnlockerViewSet(viewsets.ViewSet):
+    @swagger_auto_schema(
+        manual_parameters=[
+            openapi.Parameter('url', openapi.IN_QUERY, description="URL to retrieve content from", type=openapi.TYPE_STRING)
+        ]
+    )
     def retrieve(self, request):
         url = request.GET.get('url', '')
         if not url:
