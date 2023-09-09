@@ -67,7 +67,7 @@ class UnlockerViewSet(viewsets.ViewSet):
     )
     def api(self, request: HttpRequest):
         try:
-            content = self.retrieve_content(request.GET.get('url', ''))
+            content = self.retrieve_content(request.GET.get('url', ''), is_api=True)
             return Response({"content": str(content)})
         except ValueError as e:
             return Response({"detail": str(e)}, status=status.HTTP_400_BAD_REQUEST)
