@@ -7,7 +7,7 @@ djangorestframework==3.14.0
 idna==3.4
 pytz==2023.3.post1
 requests==2.31.0
-soupsieve==2.5
+soupsieve==2.4.1
 sqlparse==0.4.4
 tzdata==2023.3
 urllib3==2.0.4
