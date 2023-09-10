@@ -85,6 +85,20 @@ We welcome contributions from the community. If you'd like to contribute to this
    ```bash
    git checkout -b feature-your-feature-name
 
-## License
 
-This project is licensed under the BSD License.
+# Disclaimer & Notes
+
+- **Educational Purpose**: This tool was created for educational purposes, showcasing vulnerabilities in some online systems.
+
+- **Respect Intellectual Property**: Bypassing paywalls can infringe on the rights of content creators. Support them by purchasing a content subscription if you find value in their work.
+
+- **Violation of Terms of Service**: Using this tool may violate the terms of service of platforms like Medium. Use this tool responsibly and at your own risk.
+
+- **Note on Medium's Security**: As of the creation of this tool, platforms like Medium have not implemented stringent methods to enforce their paywall universally. This lack of rigid enforcement is a demonstration of potential vulnerabilities.
+
+- **Ethical Use**: The absence of strict enforcement on Medium's part does not justify or endorse the misuse of this tool. Always consider the ethical implications of your actions.
+
+- **Potential Legal Consequences**: Distributing or using tools that bypass paywalls can expose users to legal consequences. Be aware of laws and regulations in your jurisdiction.
+
+The creator of this tool and its contributors are not responsible for any misuse, consequences, or actions resulting from the software's use. Choose your actions responsibly.
+
