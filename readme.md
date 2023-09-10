@@ -102,3 +102,5 @@ We welcome contributions from the community. If you'd like to contribute to this
 
 The creator of this tool and its contributors are not responsible for any misuse, consequences, or actions resulting from the software's use. Choose your actions responsibly.
 
+This software is licensed under the BSD 3-Clause License. See the LICENSE file for details.
+
