@@ -72,7 +72,7 @@ To set up and run the API locally, follow these steps:
 
 ### Installing the Extension
 
-1. Download the zip file of repository from `<> code` button or releases section on right hand side.
+1. Download the zip file of repository from `<> code` button or `extension.zip` folder from the releases section on right hand side.
 2. Extract the files.
 3. Go to:
 ``` Browser settings -> extensions -> manage extensions ```
