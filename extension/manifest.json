@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1.1",
+    "name": "Medium Unlocker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "mue.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
