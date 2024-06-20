@@ -77,7 +77,7 @@ To set up and run the API locally, follow these steps:
 3. Go to:
 ``` Browser settings -> extensions -> manage extensions ```
 4. Enable Developer mode
-5. Click on `Load Unpacked` and select the `Web Extension` folder from the extracted files.
+5. Click on `Load Unpacked` and select the `extension` folder from the extracted files.
 6. You are good to go!
 
 ### Using the Extension
