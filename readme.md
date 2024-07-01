@@ -1,6 +1,6 @@
 # Medium-Unlocker
+<img src="https://i.imgur.com/zeVvy4B.png" alt="alt text" width="50"/>
 
-![alt text](https://i.imgur.com/zeVvy4B.png)
 ###### Image Credit:- *https://www.facebook.com/akumaaayush*
 
 ## Table of Contents
